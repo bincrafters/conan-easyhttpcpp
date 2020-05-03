@@ -1,4 +1,4 @@
 sources:
-  "1.0.0":
-    url: "https://github.com/libauthor/libname"
-    sha256: "98f6f57aab0a424469619ed3047728f0d3901ce8f0dea919c11e7966d807e870"
+  "2.1.0":
+    url: "https://github.com/sony/easyhttpcpp/archive/2.1.0.tar.gz"
+    sha256: "a20216039af129900a270e020917c3e7e7b9eb45d73ff09b1c5d9b44777a6b75"
