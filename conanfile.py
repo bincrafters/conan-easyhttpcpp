@@ -25,7 +25,7 @@ class EasyhttpcppConan(ConanFile):
             self.requires = ("poco/1.10.1")
         else:
             self.requires = (
-                "openssl/1.1.1d"
+                "openssl/1.1.1d",
                 "poco/1.10.1"
                 )
 
