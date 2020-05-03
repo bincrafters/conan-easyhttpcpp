@@ -22,10 +22,10 @@ class EasyhttpcppConan(ConanFile):
 
     def requirements(self):
         if self.settings.os == 'Windows':
-            self.requires.add('poco/1.10.1')
+            self.requires.add('poco/1.10.0')
         else:
             self.requires.add('openssl/1.1.1d')
-            self.requires.add('poco/1.10.1')
+            self.requires.add('poco/1.10.0')
 
     def config_options(self):
         if self.settings.os == 'Windows':
